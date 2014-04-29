@@ -1,0 +1,3 @@
+Code code goes in this folder. The core contains handle all game logic and state, accessed by client and server via an API
+
+Placeholder file bc git ignores empty folders
