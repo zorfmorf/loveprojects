@@ -1,0 +1,30 @@
+Attribution of all art and audio ressources.
+All art and audio in this project is released under these licenses
+:
+http://creativecommons.org/licenses/by-sa/3.0/
+http://www.gnu.org/licenses/gpl-3.0.html
+
+
+------------ Art - TILESET
+
+The tileset is created by me, but based on the "tiled terrains" tileset made 
+by adrix89. 
+
+http://opengameart.org/content/tiled-terrains
+http://opengameart.org/users/adrix89
+
+What has been adapted (without knowledge or endorsment of adrix89):
+ - several terrain tiles (edited)
+ - color composition of other terrain tiles
+
+---------- Sound - Wood chop
+
+Edited version of sound taken from freesound.org:
+Creator: http://www.freesound.org/people/hazure/
+File: https://www.freesound.org/people/hazure/sounds/23700/
+
+---------- Sound - Tree falling down
+
+Edited version of sound taken from freesound.org:
+Creator: https://www.freesound.org/people/ecfike/
+File: https://www.freesound.org/people/ecfike/sounds/139952/
